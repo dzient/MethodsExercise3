@@ -1,0 +1,14 @@
+C:\Users\kc2us\Documents\GitHub\MethodsExercise3\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.exe
+C:\Users\kc2us\Documents\GitHub\MethodsExercise3\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.deps.json
+C:\Users\kc2us\Documents\GitHub\MethodsExercise3\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.runtimeconfig.json
+C:\Users\kc2us\Documents\GitHub\MethodsExercise3\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.runtimeconfig.dev.json
+C:\Users\kc2us\Documents\GitHub\MethodsExercise3\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.dll
+C:\Users\kc2us\Documents\GitHub\MethodsExercise3\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.pdb
+C:\Users\kc2us\Documents\GitHub\MethodsExercise3\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.csproj.AssemblyReference.cache
+C:\Users\kc2us\Documents\GitHub\MethodsExercise3\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kc2us\Documents\GitHub\MethodsExercise3\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.AssemblyInfoInputs.cache
+C:\Users\kc2us\Documents\GitHub\MethodsExercise3\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.AssemblyInfo.cs
+C:\Users\kc2us\Documents\GitHub\MethodsExercise3\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.csproj.CoreCompileInputs.cache
+C:\Users\kc2us\Documents\GitHub\MethodsExercise3\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.dll
+C:\Users\kc2us\Documents\GitHub\MethodsExercise3\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.pdb
+C:\Users\kc2us\Documents\GitHub\MethodsExercise3\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.genruntimeconfig.cache
